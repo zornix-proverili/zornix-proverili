@@ -45,8 +45,20 @@ I am a student majoring in Web Design, with a solid foundation in the arts. My g
 
 ---
 
-### 📊 GitHub Stats
-![Proverili's stats](https://github-readme-stats.vercel.app/api?username=zornix-proverili&show_icons=true&theme=radical)
+### 📊 GitHub Activity
+<div align="center">
+  
+  <!-- GitHub Stats: 全体的な活動量 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=zornix-proverili&show_icons=true&theme=radical&hide_border=true" />
+  
+  <!-- Top Langs: 使用言語の円グラフ -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zornix-proverili&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+### ⏳ Daily Coding Progress (WakaTime)
+<!-- WakaTime: 学習時間を自動計測（※WakaTimeに登録後、下記URLのユーザー名部分を書き換えてください） -->
+![WakaTime](https://wakatime.com/share/@zornix-proverili/a0b1c2d3-e4f5-4678-890a-1234567890ab.svg)
 
 ---
 
