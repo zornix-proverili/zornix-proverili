@@ -1,13 +1,15 @@
 # Hello, I'm Proverili! 👋
 
+![Lion Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFvYXk0c3puMnR6YXo3emk1eHVzOTdiZWJsZXUzeWdpd3VjMDlxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6WtQraGAhoWbgyIJck/giphy.gif)
+
 I am a student majoring in Web Design, with a solid foundation in the arts. My goal is to become an **Infrastructure Engineer** who leverages design thinking to build robust and user-centric systems.
 
 ---
 
 ### 🎨 Background & Journey
-*   **Artistic Roots:** 6 years of experience in Art Clubs (Middle & High School). Specialized in Art courses.
-*   **Web & Design:** Expertise in the entire web production workflow, from UI/UX design to development.
-*   **Future Goal:** Aiming to become an **Infrastructure Engineer** (Cloud/Server/Network) starting from April 2027.
+* **Artistic Roots:** 6 years of experience in Art Clubs (Middle & High School). Specialized in Art courses.
+* **Web & Design:** Expertise in the entire web production workflow, from UI/UX design to development.
+* **Future Goal:** Aiming to become an **Infrastructure Engineer** (Cloud/Server/Network) starting from April 2027.
 
 ---
 
@@ -48,20 +50,13 @@ I am a student majoring in Web Design, with a solid foundation in the arts. My g
 ### 📊 GitHub Activity
 <div align="center">
   
-  <!-- GitHub Stats: 全体的な活動量 -->
   <img src="https://github-readme-stats.vercel.app/api?username=zornix-proverili&show_icons=true&theme=radical&hide_border=true" />
-  
-  <!-- Top Langs: 使用言語の円グラフ -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zornix-proverili&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
-### ⏳ Daily Coding Progress (WakaTime)
-<!-- WakaTime: 学習時間を自動計測（※WakaTimeに登録後、下記URLのユーザー名部分を書き換えてください） -->
-![WakaTime](https://wakatime.com/share/@zornix-proverili/a0b1c2d3-e4f5-4678-890a-1234567890ab.svg)
-
 ---
 
 ### 📩 Contact & Connect
-*   **Primary Email:** zornix.proverili@gmail.com
-*   **Backup Email:** zornix.proverili@outlook.jp
+* **Primary Email:** zornix.proverili@gmail.com
+* **Backup Email:** zornix.proverili@outlook.jp
