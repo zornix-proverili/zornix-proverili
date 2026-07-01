@@ -2,6 +2,8 @@
 
 ![Lion Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFvYXk0c3puMnR6YXo3emk1eHVzOTdiZWJsZXUzeWdpd3VjMDlxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6WtQraGAhoWbgyIJck/giphy.gif)
 
+🚀 **GitHub Start: July 1, 2026**
+
 I am a student majoring in Web Design, with a solid foundation in the arts. My goal is to become an **Infrastructure Engineer** who leverages design thinking to build robust and user-centric systems.
 
 ---
