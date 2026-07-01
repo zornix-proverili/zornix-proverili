@@ -56,7 +56,7 @@ I am a student majoring in Web Design, with a solid foundation in the arts. My g
 </div>
 
 ---
-
+ 
 ### 📩 Contact & Connect
 * **Primary Email:** zornix.proverili@gmail.com
 * **Backup Email:** zornix.proverili@outlook.jp
