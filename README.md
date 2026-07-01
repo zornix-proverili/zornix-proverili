@@ -1,6 +1,6 @@
 # Hello, I'm Proverili! 👋
 
-🚀 **GitHub Start: July 1, 2026**
+📅 **GitHub Start: July 1, 2026**
 
 I am a student majoring in Web Design, with a solid foundation in the arts. My goal is to become an **Infrastructure Engineer** who leverages design thinking to build robust and user-centric systems.
 
