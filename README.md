@@ -1,6 +1,6 @@
 # Hello, I'm Proverili! 👋
 
-![Lion Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFvYXk0c3puMnR6YXo3emk1eHVzOTdiZWJsZXUzeWdpd3VjMDlxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6WtQraGAhoWbgyIJck/giphy.gif)
+![]([https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFvYXk0c3puMnR6YXo3emk1eHVzOTdiZWJsZXUzeWdpd3VjMDlxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6WtQraGAhoWbgyIJck/giphy.gif](https://png.pngtree.com/png-vector/20190307/ourmid/pngtree-vector-programming-icon-png-image_757435.jpg))
 
 🚀 **GitHub Start: July 1, 2026**
 
