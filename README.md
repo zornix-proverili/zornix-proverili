@@ -45,7 +45,8 @@ I am a student majoring in Web Design, with a solid foundation in the arts. My g
 
 ---
 
-![Lion Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFvYXk0c3puMnR6YXo3emk1eHVzOTdiZWJsZXUzeWdpd3VjMDlxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6WtQraGAhoWbgyIJck/giphy.gif)
+### 📊 GitHub Stats
+![Proverili's stats](https://github-readme-stats.vercel.app/api?username=zornix-proverili&show_icons=true&theme=radical)
 
 ---
 
