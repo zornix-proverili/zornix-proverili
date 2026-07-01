@@ -10,7 +10,7 @@ I am a student majoring in Web Design, with a solid foundation in the arts. My g
 * **Artistic Roots:** 6 years of experience in Art Clubs (Middle & High School). Specialized in Art courses.
 * **Web & Design:** Expertise in the entire web production workflow, from UI/UX design to development.
 * **Future Goal:** Aiming to become an **Infrastructure Engineer** (Cloud/Server/Network) starting from April 2027.
-；
+
 ---
 
 ### 🛠 Technical Skills
@@ -46,6 +46,7 @@ I am a student majoring in Web Design, with a solid foundation in the arts. My g
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google-workspace&logoColor=white)
 
 ---
+あああ
 
 ### 📊 GitHub Activity
 <div align="center">
