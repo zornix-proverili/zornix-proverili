@@ -9,8 +9,8 @@ I am a student majoring in Web Design, with a solid foundation in the arts. My g
 ### ⏳ Status & Goal
 <div align="center">
   <div id="dynamic-status">
-    <h3>就職（2027/04/01）まであと: {DAYS}日</h3>
-    <p>現在の状態: {TIME_MESSAGE}</p>
+    <h3>Days until Graduation (2027/04/01): {DAYS} days</h3>
+    <p>Current Status: {TIME_MESSAGE}</p>
   </div>
 </div>
 
