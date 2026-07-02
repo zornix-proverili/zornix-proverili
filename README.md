@@ -6,7 +6,7 @@ I am a student majoring in Web Design, with a solid foundation in the arts. My g
 
 ---
 
-### 🎨 Background & Journey
+### 🖌 Background & Journey
 * **Artistic Roots:** 6 years of experience in Art Clubs (Middle & High School). Specialized in Art courses.
 * **Web & Design:** Expertise in the entire web production workflow, from UI/UX design to development.
 * **Future Goal:** Aiming to become an **Infrastructure Engineer** (Cloud/Server/Network) starting from April 2027.
