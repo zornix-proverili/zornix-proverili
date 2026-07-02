@@ -1,0 +1,25 @@
+name: Update Profile Status
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions: contents:write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update README
+        run: |
+          DAYS=$(( ($(date -d "2027-04-01" +%s) - $(date +%s)) / 86400 ))
+          HOUR=$(date +%H)
+          if [ $HOUR -ge 5 -a $HOUR -lt 12 ]; then COLOR="Morning Study Mode"; elif [ $HOUR -ge 12 -a $HOUR -lt 18 ]; then COLOR="Daytime Work Mode"; else COLOR="Night Relax Mode"; fi
+          
+          sed -i -E "s/Days until Graduation \(2027\/04\/01\): [0-9]+/Days until Graduation \(2027\/04\/01\): $DAYS/g" README.md
+          sed -i -E "s/Current Status: [^<]+/Current Status: $COLOR/g" README.md
+          
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update profile status" || exit 0
+          git push
