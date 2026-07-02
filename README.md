@@ -6,11 +6,21 @@ I am a student majoring in Web Design, with a solid foundation in the arts. My g
 
 ---
 
+### ⏳ Status & Goal
+<div align="center">
+  <div id="dynamic-status">
+    <h3>就職（2027/04/01）まであと: {DAYS}日</h3>
+    <p>現在の状態: {TIME_MESSAGE}</p>
+  </div>
+</div>
+
+---
+
 ### 🖌 Background & Journey
 * **Artistic Roots:** 6 years of experience in Art Clubs (Middle & High School). Specialized in Art courses.
 * **Web & Design:** Expertise in the entire web production workflow, from UI/UX design to development.
 * **Future Goal:** Aiming to become an **Infrastructure Engineer** (Cloud/Server/Network) starting from April 2027.
-；
+
 ---
 
 ### 🛠 Technical Skills
