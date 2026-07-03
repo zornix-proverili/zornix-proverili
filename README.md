@@ -37,6 +37,16 @@ src="https://streak-stats.demolab.com?user=zornix-proverili&theme=github-dark&hi
 
 ---
 
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/3b82f6/zornix-proverili" alt="GitHub Contribution Calendar"/>
+
+</div>
+
+---
+
 # 💻 Skills & Tools
 
 ## 🌐 Languages
@@ -79,6 +89,8 @@ src="https://streak-stats.demolab.com?user=zornix-proverili&theme=github-dark&hi
 
 ---
 
+## 🛠️ Development Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -90,9 +102,41 @@ src="https://streak-stats.demolab.com?user=zornix-proverili&theme=github-dark&hi
 
 ---
 
+## 🎨 Design
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge)
+
+---
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zornix-proverili&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zornix-proverili&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Language Usage
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zornix-proverili&layout=donut&theme=github_dark&hide_border=true"/>
+
+</div>
+
+
+
+
+
+
