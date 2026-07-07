@@ -520,6 +520,10 @@ Planeo comenzar mi carrera como **Ingeniero de Infraestructura** después de gra
 </table>
 </div>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=zornix-proverili&theme=tokyonight" width="400" />
+</a>
+
 <hr>
 
 <div align="left">
