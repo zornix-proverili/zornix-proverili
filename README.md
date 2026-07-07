@@ -1,26 +1,16 @@
+<div align="center">
+
 <!-- 1. プロフィール基本情報 -->
-<div align="left">
 <img src="https://github.com/zornix-proverili.png" width="160" style="border-radius: 50%; border: 4px solid #3178C6;">
 <h1>zornix-proverili</h1>
 <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=3178C6&width=300&lines=Infrastructure+Engineer+in+the+making;Full+Stack+Learner;Always+Learning+New+Tech" alt="Typing Animation"></p>
 
 <br>
 
-<!-- 2. GitHub Stats -->
-<img src="https://github-readme-stats.shion.dev/api?username=zornix-proverili&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" />
-<br>
-<img src="https://streak-stats.demolab.com/?user=zornix-proverili&theme=tokyonight&hide_border=true&ring=3178C6&fire=F24E1E" width="400" />
-<br>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zornix-proverili&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400" />
-<br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zornix-proverili&theme=tokyonight&utcOffset=9" width="400" />
-
-<hr>
-
 ## 🗣️ 言語を選択してください / Select Language
 
 <details>
-<summary><b>🇺🇸 US English Full Profile</b></summary>
+<summary><b>🇺🇸 us アメリカ英語 / US English Full Profile</b></summary>
 
 # 👋 About Me
 I'm a beginner Full Stack Developer from Japan.
@@ -119,7 +109,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 </details>
 
 <details>
-<summary><b>🇯🇵 日本語 フルプロフィール</b></summary>
+<summary><b>🇯🇵 JP 日本語 フルプロフィール</b></summary>
 
 # 👋 自己紹介
 駆け出し初心者のフルスタックエンジニア。
@@ -218,7 +208,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 </details>
 
 <details>
-<summary><b>🇨🇳 CN 中文 完整個人資料</b></summary>
+<summary><b>🇨🇳 CN 中文 完整個人資料 / Chinese Full Profile</b></summary>
 
 # 👋 关于我
 我是来自日本的初学者全栈开发人员。
@@ -317,7 +307,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 </details>
 
 <details>
-<summary><b>🇰🇷 KR 한국어 전체 프로필</b></summary>
+<summary><b>🇰🇷 KR 한국어 전체 프로필 / Korean Full Profile</b></summary>
 
 # 👋 소개
 일본 출신의 초보 풀스택 개발자입니다.
@@ -416,7 +406,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 </details>
 
 <details>
-<summary><b>🇪🇸 ES Español Perfil completo</b></summary>
+<summary><b>🇪🇸 ES Español Perfil completo / Spanish Full Profile</b></summary>
 
 # 👋 Sobre Mí
 Soy un desarrollador Full Stack principiante de Japón.
@@ -514,3 +504,22 @@ Planeo comenzar mi carrera como **Ingeniero de Infraestructura** después de gra
 ![Google Slides](https://img.shields.io/badge/Google_Slides-FBBC04?style=for-the-badge&logo=googledocs&logoColor=white)
 </details>
 </div>
+
+--- 
+
+<!-- 2. GitHub Stats -->
+<table border="0">
+  <tr>
+    <td><img src="https://github-readme-stats.shion.dev/api?username=zornix-proverili&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=zornix-proverili&theme=tokyonight&hide_border=true&ring=3178C6&fire=F24E1E" width="400" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zornix-proverili&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zornix-proverili&theme=tokyonight&utcOffset=9" width="400" /></td>
+  </tr>
+</table>
+</div>
+
+<hr>
+
+<div align="left">
