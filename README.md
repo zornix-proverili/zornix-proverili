@@ -17,7 +17,6 @@
 <div align="left">
 
 ## 🗣️ 言語を選択してください / Select Language
----
 
 <details>
 <summary><b>🇺🇸 us アメリカ英語 / US English Full Profile</b></summary>
