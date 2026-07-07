@@ -17,7 +17,7 @@
 
 <hr>
 
-## 🗣️ 言語を選択 / Select Language
+## 🗣️ 言語を選択してください / Select Language
 
 <details>
 <summary><b>🇺🇸 US English Full Profile</b></summary>
