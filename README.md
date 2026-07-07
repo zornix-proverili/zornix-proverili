@@ -592,3 +592,10 @@ Planeo comenzar mi carrera como **Ingeniero de Infraestructura** después de gra
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zornix-proverili&theme=github_dark" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zornix-proverili&theme=github_dark&utcOffset=9" width="49%" />
 </p>
+
+---
+
+## 📅 Contributions
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=zornix-proverili&theme=github-dark&hide_border=true&color=3178C6&line=3178C6&point=ffffff)
+
+---
