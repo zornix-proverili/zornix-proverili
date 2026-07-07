@@ -1,25 +1,26 @@
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 40px; text-align: left; max-width: 800px;">
-    <div>
-      <img src="https://github.com/zornix-proverili.png" width="160" alt="Lion Icon" style="border-radius: 50%; border: 4px solid #3178C6;">
-    </div>
-    <div>
-      <h1 style="margin: 0;">zornix-proverili</h1>
-      <p style="margin: 5px 0; height: 24px;">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=3178C6&width=300&lines=Infrastructure+Engineer+in+the+making;Full+Stack+Learner;Always+Learning+New+Tech" alt="Typing Animation">
-      </p>
-    </div>
-  </div>
-</div>
+<!-- 1. プロフィール基本情報 -->
+<div align="left">
+<img src="https://github.com/zornix-proverili.png" width="160" style="border-radius: 50%; border: 4px solid #3178C6;">
+<h1>zornix-proverili</h1>
+<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=3178C6&width=300&lines=Infrastructure+Engineer+in+the+making;Full+Stack+Learner;Always+Learning+New+Tech" alt="Typing Animation"></p>
 
 <br>
 
-<div align="left">
+<!-- 2. GitHub Stats -->
+<img src="https://github-readme-stats.shion.dev/api?username=zornix-proverili&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" />
+<br>
+<img src="https://streak-stats.demolab.com/?user=zornix-proverili&theme=tokyonight&hide_border=true&ring=3178C6&fire=F24E1E" width="400" />
+<br>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zornix-proverili&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400" />
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zornix-proverili&theme=tokyonight&utcOffset=9" width="400" />
 
-## 🗣️ 言語を選択してください / Select Language
+<hr>
+
+## 🗣️ 言語を選択 / Select Language
 
 <details>
-<summary><b>🇺🇸 us アメリカ英語 / US English Full Profile</b></summary>
+<summary><b>🇺🇸 US English Full Profile</b></summary>
 
 # 👋 About Me
 I'm a beginner Full Stack Developer from Japan.
@@ -57,7 +58,6 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 
 ---
 ## 💻 Programming Languages
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -67,9 +67,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
 ## ⚛️ Frameworks, Libraries & Runtimes
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -80,25 +78,19 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
-
 ## 🛢️ Databases
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-
 ## ☁️ Cloud Platforms
-
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
-
 ## 🛠️ Development Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)
@@ -109,9 +101,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 ---
-
 ## 🎨 Design & Creative Tools
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -119,9 +109,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-
 ## 🧰 Productivity Tools
-
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
@@ -131,7 +119,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 </details>
 
 <details>
-<summary><b>🇯🇵 JP 日本語 フルプロフィール</b></summary>
+<summary><b>🇯🇵 日本語 フルプロフィール</b></summary>
 
 # 👋 自己紹介
 駆け出し初心者のフルスタックエンジニア。
@@ -169,7 +157,6 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 
 ---
 ## 💻 プログラミング言語
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -179,9 +166,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
 ## ⚛️ フレームワーク・ライブラリ・ランタイム
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -192,25 +177,19 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
-
 ## 🛢️ データベース
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-
 ## ☁️ クラウドプラットフォーム
-
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
-
 ## 🛠️ 開発ツール
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)
@@ -221,9 +200,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 ---
-
 ## 🎨 デザイン・クリエイティブツール
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -231,9 +208,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-
 ## 🧰 生産性ツール
-
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
@@ -243,7 +218,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 </details>
 
 <details>
-<summary><b>🇨🇳 CN 中文 完整個人資料 / Chinese Full Profile</b></summary>
+<summary><b>🇨🇳 CN 中文 完整個人資料</b></summary>
 
 # 👋 关于我
 我是来自日本的初学者全栈开发人员。
@@ -281,7 +256,6 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 
 ---
 ## 💻 编程语言
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -291,9 +265,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
 ## ⚛️ 框架、库和运行时
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -304,25 +276,19 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
-
 ## 🛢️ 数据库
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-
 ## ☁️ 云平台
-
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
-
 ## 🛠️ 开发工具
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)
@@ -333,9 +299,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 ---
-
 ## 🎨 设计与创意工具
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -343,9 +307,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-
 ## 🧰 办公生产力工具
-
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
@@ -355,7 +317,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 </details>
 
 <details>
-<summary><b>🇰🇷 KR 한국어 전체 프로필 / Korean Full Profile</b></summary>
+<summary><b>🇰🇷 KR 한국어 전체 프로필</b></summary>
 
 # 👋 소개
 일본 출신의 초보 풀스택 개발자입니다.
@@ -393,7 +355,6 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 
 ---
 ## 💻 프로그래밍 언어
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -403,9 +364,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
 ## ⚛️ 프레임워크, 라이브러리 및 런타임
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -416,25 +375,19 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
-
 ## 🛢️ 데이터베이스
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-
 ## ☁️ 클라우드 플랫폼
-
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
-
 ## 🛠️ 개발 도구
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)
@@ -445,9 +398,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 ---
-
 ## 🎨 디자인 및 크리에이티브 툴
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -455,9 +406,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-
 ## 🧰 생산성 도구
-
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
@@ -467,7 +416,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 </details>
 
 <details>
-<summary><b>🇪🇸 ES Español Perfil completo / Spanish Full Profile</b></summary>
+<summary><b>🇪🇸 ES Español Perfil completo</b></summary>
 
 # 👋 Sobre Mí
 Soy un desarrollador Full Stack principiante de Japón.
@@ -505,7 +454,6 @@ Planeo comenzar mi carrera como **Ingeniero de Infraestructura** después de gra
 
 ---
 ## 💻 Lenguajes de Programación
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -515,9 +463,7 @@ Planeo comenzar mi carrera como **Ingeniero de Infraestructura** después de gra
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
 ## ⚛️ Frameworks, Librerías y Runtimes
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -528,28 +474,22 @@ Planeo comenzar mi carrera como **Ingeniero de Infraestructura** después de gra
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
-
 ## 🛢️ Bases de Datos
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-
 ## ☁️ Plataformas en la Nube
-
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
-
 ## 🛠️ Herramientas de Desarrollo
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github_desktop&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -557,9 +497,7 @@ Planeo comenzar mi carrera como **Ingeniero de Infraestructura** después de gra
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 ---
-
 ## 🎨 Herramientas de Diseño y Creatividad
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -567,9 +505,7 @@ Planeo comenzar mi carrera como **Ingeniero de Infraestructura** después de gra
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-
 ## 🧰 Herramientas de Productividad
-
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
@@ -577,18 +513,4 @@ Planeo comenzar mi carrera como **Ingeniero de Infraestructura** después de gra
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Google Slides](https://img.shields.io/badge/Google_Slides-FBBC04?style=for-the-badge&logo=googledocs&logoColor=white)
 </details>
-
 </div>
-
----
-
-## 📊 GitHub Stats 
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=zornix-proverili&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=zornix-proverili&theme=tokyonight&hide_border=true&ring=3178C6&fire=F24E1E" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zornix-proverili&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zornix-proverili&theme=tokyonight&utcOffset=9" width="49%" />
-</div>
-
----
