@@ -26,27 +26,6 @@ My career goal is to become an **Infrastructure Engineer** specializing in **Clo
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=zornix-proverili&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/3b82f6/zornix-proverili" alt="GitHub Contribution Calendar"/>
-
-</div>
-
----
-
 # 💻 Skills & Tools
 
 ## 🌐 Languages
@@ -74,6 +53,8 @@ src="https://streak-stats.demolab.com?user=zornix-proverili&theme=github-dark&hi
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ---
+
+## 🛢️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -113,27 +94,6 @@ src="https://streak-stats.demolab.com?user=zornix-proverili&theme=github-dark&hi
 
 ---
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zornix-proverili&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zornix-proverili&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 💻 Language Usage
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zornix-proverili&layout=donut&theme=github_dark&hide_border=true"/>
-
-</div>
 
 
 
