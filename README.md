@@ -1,14 +1,12 @@
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; gap: 40px; text-align: left; max-width: 800px;">
-    <!-- 左側：アイコン -->
     <div>
       <img src="https://github.com/zornix-proverili.png" width="160" alt="Lion Icon" style="border-radius: 50%; border: 4px solid #3178C6;">
     </div>
-    <!-- 右側：名前とステータス -->
     <div>
       <h1 style="margin: 0;">zornix-proverili</h1>
       <p style="margin: 5px 0; height: 24px;">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=666666&width=300&lines=Infrastructure+Engineer+in+the+making;Full+Stack+Learner;Always+Learning+New+Tech" alt="Typing Animation">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=3178C6&width=300&lines=Infrastructure+Engineer+in+the+making;Full+Stack+Learner;Always+Learning+New+Tech" alt="Typing Animation">
       </p>
     </div>
   </div>
@@ -19,7 +17,6 @@
 <div align="left">
 
 ## 🗣️ 言語を選択してください / Select Language
-
 ---
 
 <details>
@@ -139,7 +136,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 
 # 👋 自己紹介
 駆け出し初心者のフルスタックエンジニア。
-**フロントエンド**、**バックエンド**、**クラウド**、**サーバー**、**ネットワーク**を学習、WebサイトやWebアプリケーションの構築を楽しんでいる。
+**フロントエンド**、**バックエンド**、**クラウド**、**サーバー**、**ネットワーク**を学習、趣味でWebサイトやWebアプリケーションの構築ををしている。
 専門学校を卒業した後は、**インフラエンジニア**としてのキャリアをスタートする。
 
 # 🌱 ビジョン
@@ -588,14 +585,11 @@ Planeo comenzar mi carrera como **Ingeniero de Infraestructura** después de gra
 
 ## 📊 GitHub Stats 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zornix-proverili&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zornix-proverili&theme=github_dark&utcOffset=9" width="49%" />
-</p>
-
----
-
-## 📅 Contributions
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=zornix-proverili&theme=github-dark&hide_border=true&color=3178C6&line=3178C6&point=ffffff)
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=zornix-proverili&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=zornix-proverili&theme=tokyonight&hide_border=true&ring=3178C6&fire=F24E1E" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zornix-proverili&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zornix-proverili&theme=tokyonight&utcOffset=9" width="49%" />
+</div>
 
 ---
