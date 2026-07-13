@@ -1,13 +1,12 @@
 <div align="center">
 
-<!-- 1. プロフィール基本情報 -->
 <img src="https://github.com/zornix-proverili.png" width="160" style="border-radius: 50%; border: 4px solid #3178C6;">
 <h1>zornix-proverili</h1>
 <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=3178C6&width=300&lines=Infrastructure+Engineer+in+the+making;Full+Stack+Learner;Always+Learning+New+Tech" alt="Typing Animation"></p>
 
 <br>
 
-## 🗣️ 言語を選択してください / Select Language
+## 🗣️ Select Language　/ 言語を選択してください
 
 <details>
 <summary><b>🇺🇸 us アメリカ英語 / US English Full Profile</b></summary>
