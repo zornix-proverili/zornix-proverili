@@ -236,7 +236,7 @@ I'm planning to start my career as an **Infrastructure Engineer** after graduati
 - ☁️ 云认证 | 🖥️ 基础架构认证
 - 🌐 网络认证 | 🔒 安全认证
 
-# 🚀 当前项目
+# 🚀 当前项目　
 - 💎 **Clari Jewelry** — 珠宝电子商务网站。
 
 ### 🗂️ 计划中的项目
