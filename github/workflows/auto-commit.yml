@@ -1,7 +1,7 @@
 name: Auto Commit
 on:
   schedule:
-    - cron: '0 0,4,8,12 * * 1-5'
+    - cron: '0 21,5,8 * * 1-5'
   workflow_dispatch:
 
 jobs:
@@ -13,14 +13,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Random Delay
-        run: sleep $((RANDOM % 1800))
-
       - name: Auto Commit
         run: |
-          echo "$(date)" >> activity.log
           git config user.name "${{ secrets.GIT_USER_NAME }}"
           git config user.email "${{ secrets.GIT_USER_EMAIL }}"
-          git add activity.log
-          git commit -m "chore: automated technical activity sync [skip ci]"
+          
+          COMMIT_COUNT=$((2 + RANDOM % 6))
+          
+          for i in $(seq 1 $COMMIT_COUNT); do
+            echo "$(date)" >> activity.log
+            git add activity.log
+            git commit -m "chore: auto sync $i [skip ci]"
+            sleep 1
+          done
+          
           git push
